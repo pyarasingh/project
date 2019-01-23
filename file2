@@ -1,4 +1,8 @@
 this file is random and 
+<<<<<<< HEAD
 only for testing purpose.
 this is the second file.
+=======
+only for testing purpose. file 2 needs some changes to perform the operations.
+>>>>>>> upstream/master
 This file is randomly generated.
